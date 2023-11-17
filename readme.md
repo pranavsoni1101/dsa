@@ -21,7 +21,8 @@ Feel free to explore the code, learn from it, and contribute to make this reposi
 The implementations are available in the following programming languages:
 
 - JavaScript (Node.js)
-- TypeScript
+- C
+- C++
 - Python
 - Java
 
